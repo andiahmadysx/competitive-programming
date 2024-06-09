@@ -1,6 +1,6 @@
 /**
  * 1. Ah ini disuruh hitung banyak total angka paling tinggi ya
- * 2. Sort dulu ga sih, nanti ambil index dari angka paling tinggi abis tuh splice
+ * 2. Sort dulu ga sih, nanti ambil index dari angka paling tinggi abis tuh slice
  * 3. Let's goo
  */
 function birthdayCakeCandles(candles) {
